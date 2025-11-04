@@ -39,5 +39,5 @@ A robust, real-time web platform to combat motorcycle theft. Empowering communit
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-org/curi-engine.git
+   git clone https://github.com/bicharul/Project-Curi-Engine/tree/main
    cd curi-engine
